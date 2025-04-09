@@ -33,3 +33,4 @@ This type of project has multiple real-world applications. Similar web-based sys
 In conclusion, the weather app successfully meets the goal of creating a responsive webpage that integrates a public API to dynamically fetch and display data. It is an excellent example of how client-side scripting, responsive design, and real-time data can come together to create an interactive and informative web experience.
 
 *OUTPUT*: ![Image](https://github.com/user-attachments/assets/a5af1b1b-5758-4f1c-871b-70b017ffcafb)
+          ![Image](https://github.com/user-attachments/assets/d30aa4f7-89f6-41e2-ab5e-6d7498aaaf8a)
