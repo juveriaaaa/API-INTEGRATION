@@ -31,3 +31,5 @@ The application incorporates basic error handling to improve the user experience
 This type of project has multiple real-world applications. Similar web-based systems can be used in travel apps, smart home dashboards, weather forecasting websites, or any system that benefits from integrating external data into a user interface. The ability to dynamically load and display live data is a core component of modern web development, and this project is a clear demonstration of that concept.
 
 In conclusion, the weather app successfully meets the goal of creating a responsive webpage that integrates a public API to dynamically fetch and display data. It is an excellent example of how client-side scripting, responsive design, and real-time data can come together to create an interactive and informative web experience.
+
+*OUTPUT*:<!-- Uploading "Screenshot 2025-04-09 172237.png"... -->
