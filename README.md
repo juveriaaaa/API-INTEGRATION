@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-*DESCRIPTION*: *Project Description*: WEATHER FINDER – A Responsive Webpage with API Integration
+*DESCRIPTION*: WEATHER FINDER – A Responsive Webpage with API Integration
 
 This project is a fully responsive weather application developed as part of the API integration task, which required building a webpage that fetches and displays data from a public API. The objective was to demonstrate the ability to retrieve dynamic data using an external API and display it seamlessly within a user-friendly interface.
 
